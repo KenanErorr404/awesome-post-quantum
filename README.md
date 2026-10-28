@@ -308,6 +308,7 @@ Tencent:
 
 ## PQC software
 
+* [bsi-tr02102-pqc-audit-cli](https://github.com/KenanErorr404/bsi-tr02102-pqc-audit-cli) - Zero-dependency Python CLI scanner for auditing local SSH, OpenSSL/TLS, and X.509 configurations against the German BSI TR-02102-1 (2031 PQC transition) guidelines
 * [SUPERCOP](https://bench.cr.yp.to/results-kem.html) - Benchmarks for cryptographic software
 * [PQConnect](https://www.pqconnect.net/) - Network-layer PQ-protected tunneling
 
